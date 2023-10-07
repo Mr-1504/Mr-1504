@@ -1,6 +1,14 @@
 ## <p align="left">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=800&size=37&pause=1000&width=434&lines=Tr%C6%B0%C6%A1ng+V%C4%83n+Minh%F0%9F%91%8B)](https://git.io/typing-svg)</p>
 ## <p align="left">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=800&size=37&pause=1000&width=434&lines=Qu%E1%BB%B3nh+L%C6%B0u+Ngh%E1%BB%87+An)](https://git.io/typing-svg)</p>
 
+| | |
+| - | - |        
+|Full Name      |          Truong Van Minh           |
+|Birthday       | 2004 |
+|Location           | Ha Noi Capital, Viet Nam|
+|Profession     | I'm 19+ years old Self-taught Data Scientist from Viet Nam.|
+|University |    University of Transport and Communications|
+| | |
 
 <!--
 **Mr-1504/Mr-1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
