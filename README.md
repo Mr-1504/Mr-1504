@@ -44,3 +44,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+##
+## <p align="center">Github Statistics 📊</p>
+
+<div align="center">
+<!--   "https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=percentile" -->
+<img height="125px" src="https://github-readme-stats.vercel.app/api?username=hoangmanhkhiem&show_icons=true&theme=dracula" />
+<img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangmanhkhiem&hide=html&layout=compact&theme=dracula" />
+<img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangmanhkhiem&hide=html&layout=compact&theme=dracula" />
+</div>
+
+
+<hr>
+<br>
+
+<p align="center">
+<img align='center' height='400' src='https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif' alt='Skills'>
+</p>
