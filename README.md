@@ -59,5 +59,5 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-<img align='center' height='400' src='https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif' alt='Skills'>
+<img align='center' height='400' src="https://giphy.com/embed/U4FkC2VqpeNRHjTDQ5" alt='Skills'>
 </p>
