@@ -59,5 +59,5 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-<img align='center' height='400' src="https://giphy.com/embed/U4FkC2VqpeNRHjTDQ5" alt='Skills'>
+<iframe src="https://giphy.com/embed/U4FkC2VqpeNRHjTDQ5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5">via GIPHY</a></p>
 </p>
