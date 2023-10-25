@@ -43,12 +43,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##
-## <p align="center">Github Statistics 📊</p>
 
 <div align="center">
 <!--   "https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=percentile" -->
 <img height="125px" src="https://github-readme-stats.vercel.app/api?username=Mr-1504&show_icons=true&theme=dracula" />
 <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-1504&hide=html&layout=compact&theme=dracula" />
+
+  <p align="center">
+<img src="https://github-trophies.vercel.app/?username=Mr-1504&theme=gitdimmed&row=1&column=9">
+</p>
+<hr>
 <!-- <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-1504&hide=html&layout=compact&theme=dracula" /> -->
 </div>
