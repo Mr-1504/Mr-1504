@@ -1,9 +1,7 @@
-
 <a href="#" target="_blank">
-  <img src="svg/mr.svg" width="1200" alt="" />
+  <img src="svg/mr2.svg" width="1200" alt="" />
 </a>
 <br>
-
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
@@ -28,7 +26,7 @@
 
 <br>
 
-
+## <p align="left">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&duration=4000&pause=100&color=32BB3A&multiline=true&width=435&height=100&lines=...Tr%C6%B0%C6%A1ng+V%C4%83n+Minh%F0%9F%91%8B;___Qu%E1%BB%B3nh+L%C6%B0u+Ngh%E1%BB%87+An)](https://git.io/typing-svg)</p>
 
 - 🌱 I’m currently learning University of Transport and Communications
 <!--
