@@ -52,7 +52,7 @@
   <!-- <a href="" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="-linkedin" />
   </a> -->
-  <a href="https://www.instagram.com/m10.5.4/" target="blank">
+  <a href="https://www.instagram.com/m.10.5.4m/" target="blank">
      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="-Instagram" />
   </a>
   <a href="mailto:truongvanminhxom14ql@gmail.com" target="top">
